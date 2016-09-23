@@ -8,4 +8,7 @@ I embedded this Json data in 2d-code.
 { “Ad”:”Elif Naz”,     “Soyad”:”Furuncu”,    “Bolum”:”Bilgisayar Muhendisligi”,  “Sehir”:Eskisehir”, “Telefon”:”05345910000”   }
 
 
+![Barcode](https://github.com/efuruncu/BarcodeReader/blob/master/karekod.png "Barcode")
+
+
 İf you want just barcode reader ,you can delete part of json code line. then,application reads every QR code.
