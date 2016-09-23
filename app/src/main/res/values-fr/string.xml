@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Lecteur de Code à Barres</string>
+    <string name="btnName">Exécutez le code QR</string>
+</resources>
